@@ -1,0 +1,12 @@
+{
+  "preferred_deployment_model": "PCA-Hybrid (160)",
+  "reason": "lightweight proposed model for future real-time deployment",
+  "best_pca_dim": 160,
+  "classical_feature_count": 81,
+  "deep_embedding_dim_before_pca": 3840,
+  "deep_embedding_dim_after_pca": 160,
+  "full_model_threshold_youden": 0.35191261584731887,
+  "pca_model_threshold_youden": 0.4200273849174287,
+  "full_model_auc": 0.9265625,
+  "pca_model_auc": 0.8997767857142858
+}
